@@ -1,12 +1,13 @@
 {
-    "name": "GaanaAPI",
-    "description": "Unofficial API of Gaana.",
+    "name": "JioSaavnAPI",
+    "description": "Unofficial API of JioSaavn.",
     "author": "Sumanjay",
     "keywords": [
         "flask",
         "python",
-        "gaana",
+        "saavn",
+        "jiosaavn",
         "music"
     ],
-    "repository": "https://github.com/cyberboysumanjay/gaanaapi"
+    "repository": "https://github.com/cyberboysumanjay/JioSaavnAPI"
 }
